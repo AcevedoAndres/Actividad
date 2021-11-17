@@ -1,0 +1,30 @@
+.title{
+    background: white;
+    text-align: center; 
+    font-family: Arial; 
+    font color: #000; 
+}
+
+.imagen1{ 
+    background: grey;
+    margin: auto;
+    text-align: center; 
+    padding-top: 3px;
+}
+
+.parrafo{ 
+    background: white;
+    text-align: center;
+    text-align: justify;
+    width: 80%;
+    margin-top: 8px;
+    height: 150px;
+    margin: auto;
+    font-family: Arial;
+    font-size: large;
+    font color: #000;
+    }
+.video1{
+    text-align: center;
+    margin: auto;    
+}
